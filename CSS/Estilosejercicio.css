@@ -1,0 +1,206 @@
+*{margin: 0;padding:0}
+
+
+h1 {
+    padding: 25px;
+    text-align: center;
+    align-items: center;
+    
+}
+
+h2 {
+    padding: 10px;
+    align-items: left;
+    color: rgb(4, 3, 65);
+
+    font-size: 36px;
+
+    text-decoration: none;
+    
+}
+
+h3 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+   
+
+}
+
+
+
+h6 {
+    padding: 5px;
+    align-items: center;
+    color: rgb(59, 167, 240);
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic; 
+    
+}
+
+p {
+    color: rgb(4, 17, 53);
+    font-size: 18px;
+    font-family: Helvetica;
+}
+
+.imputs {
+    border-color: rgb(9, 176, 241);
+    border-width: 1px;
+    border-style: solid;
+}
+
+.imputs:hover {
+    border-color: turquoise;
+}
+
+.colorheader{
+    background-color: rgb(3, 2, 63);
+}
+
+.colormenu{
+    background-color: rgb(13, 153, 13);
+    width: auto;
+}
+
+.banner {
+    background-color: rgb(191, 192, 196);
+    padding: 60px;
+    align-items: center;
+    text-align: center;
+}
+
+.banner2 {
+    background-color: rgb(214, 81, 4);
+    padding: 60px;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.banner3 {
+    background-color: rgb(126, 49, 4);
+    padding: 60px;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.banner4 {
+    background-color: rgb(54, 20, 1);
+    padding: 60px;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.banner5 {
+    background-color: rgb(21, 181, 245);
+    padding: 60px;
+    align-content: center;
+    align-items: center;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.container-fluid-table {
+    display: flex;
+    margin-top: 40px;
+    margin-right: 40px;
+    margin-left: 4px; 
+    background-color: rgb(87, 168, 201);
+    align-items: center;
+    justify-content: center;  
+    padding: 10px; 
+    width: 1200px;
+    height: 600px;
+}
+
+.header2{
+    background-color: rgb(11, 85, 168);
+    color: white;
+    height: 50px;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+.boton {
+    padding: 10px;
+    background-color: rgb(10, 13, 192);
+    border-color: rgb(0, 173, 241);
+    border-style: solid;
+    border-radius: 2px;
+    width: 220px;
+    transition-duration: 1s;
+    
+}
+
+.boton:hover {
+    border-color: rgb(0, 162, 255);
+    transform: scale(0);
+}
+
+.transformaciones:hover {
+    transform: scale(1.s);
+}
+
+.navbar-dark {
+    background-color: rgba(7, 7, 39, 0.822);
+    
+
+}
+
+.fa-youtube-square .fa-linkedin {
+    color:rgb(7, 119, 248);
+}
+
+.bg-azul {
+    background-color: rgba(40, 146, 173, 0.329);
+    border-color: rgb(82, 203, 240);
+    color: honeydew;
+    align-items: space-around;
+}
+
+.btn-primary {
+    background-color: rgb(17, 33, 102);
+    border: rgb(5, 101, 245);
+    transition-duration: 0.5s;
+}
+
+.btn-primary:hover {
+    background-color: rgb(6, 144, 199);
+    border-color: rgb(20, 169, 255);
+    }
+
+
+
+.container-card {
+    padding: 50px;
+    margin: 50px;
+    background-color: rgb(206, 207, 212);
+    align-items: center;
+    align-content: space-around;
+    
+}
+
+.container-footer {
+    padding: 20px;
+
+    
+}
+
+.a-texto {
+    color: aquamarine;
+}
+
+.hr-card {
+    border-color: rgb(2, 2, 85);
+    border-style: double;
+}
+
